@@ -1,0 +1,12 @@
+
+.active {
+  text-decoration: none;
+  color: black;
+}
+ a:hover {
+  text-decoration: none;
+}
+
+.row {
+  margin: 0;
+}
