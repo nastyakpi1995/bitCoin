@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.css"],"names":[],"mappings":"AACA,QAEE,UACF,CACC,gBAHC,oBAKF,CAEA,KACE,QACF","file":"main.be8787b2.chunk.css","sourcesContent":["\n.active {\n  text-decoration: none;\n  color: black;\n}\n a:hover {\n  text-decoration: none;\n}\n\n.row {\n  margin: 0;\n}"]}
